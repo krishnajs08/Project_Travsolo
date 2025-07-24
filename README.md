@@ -1,5 +1,7 @@
 # Project_Travsolo
 
+ REGISTER AND LOGIN TO THE WEBSITE FOR THE EXPLORE OPTION ..... WHICH GIVE YOU A GREATE EXPERIENCE ...:)
+
 TravSolo is a web platform built for solo travelers. It helps users discover destinations, find hotels, and manage travel itineraries—powered by modern web technologies.
 
 🚀 Features
